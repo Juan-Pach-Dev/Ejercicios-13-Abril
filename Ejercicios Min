@@ -1,0 +1,16 @@
+# Ejercicio 7
+print(min(2, 3))
+# Ejercicio 8
+print(min(2, 3, -1))
+# Ejercicio 9
+list1 = [1, 2, 4, 5, -54]
+print(min(list1))
+# Ejercicio 10
+list2 = ['a', 'b', 'c']
+print(min(list2))
+# Ejercicio 11
+list3 = ["1", "2", "abc", "xyz"]
+print(min(list3))
+# Ejercicio 12
+list4 = [3, 25, -3]
+print(min(list4))
