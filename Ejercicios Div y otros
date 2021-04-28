@@ -1,0 +1,14 @@
+# Ejercicio 13
+print(divmod(5, 2))
+# Ejercicio 14
+print(divmod(13.5, 2.5))
+# Ejercicio 15
+q, r = divmod(13.5, 2.5)
+print(q)
+print(r)
+# FUNCIÓN OCTAL
+print(oct(30))
+# FUNCIÓN ROUND
+print(round(23.9789658659))
+# FUNCIÓN POW
+print(pow(2, 3))
